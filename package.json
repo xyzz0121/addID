@@ -1,0 +1,27 @@
+{
+  "name": "addid",
+  "version": "1.0.1",
+  "description": "add unique id for object or object array",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyzz0121/addID.git"
+  },
+  "keywords": [
+    "addID",
+    "ID",
+    "add"
+  ],
+  "author": "jackchow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xyzz0121/addID/issues"
+  },
+  "homepage": "https://github.com/xyzz0121/addID#readme"
+}
