@@ -1,6 +1,6 @@
 {
   "name": "addid",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "add unique id for object or object array",
   "main": "index.js",
   "directories": {
